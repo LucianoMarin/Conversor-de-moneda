@@ -22,22 +22,17 @@
 
 
 <h1>CAPTURAS FUNCIONAMIENTO: </h1>
-<img src="![imagen](https://github.com/user-attachments/assets/924fe9ba-9431-44ee-8f07-efc161975a75)
-">
+<img src="https://github.com/user-attachments/assets/924fe9ba-9431-44ee-8f07-efc161975a75">
 <br>
 <br>
-<img src="![imagen](https://github.com/user-attachments/assets/c58ee2fc-5152-4e97-ac16-35506b5fe6a8)
-">
+<img src="https://github.com/user-attachments/assets/c58ee2fc-5152-4e97-ac16-35506b5fe6a8">
 <br>
 <br>
-<img src="![imagen](https://github.com/user-attachments/assets/d942f504-1a8c-4f48-8954-9476a14137fb)
-">
+<img src="https://github.com/user-attachments/assets/d942f504-1a8c-4f48-8954-9476a14137fb">
 <br>
 <br>
 <br>
-<img src="![imagen](https://github.com/user-attachments/assets/98e9ac14-1a9c-413c-84a9-3c32c9ef3f74)
-
-">
+<img src="https://github.com/user-attachments/assets/98e9ac14-1a9c-413c-84a9-3c32c9ef3f74">
 
 
 
